@@ -1,0 +1,119 @@
+html{
+  background-color: #B7B1F2;
+  border: #FFDCCC solid 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.decoration{
+  background-color: #FDB7EA;
+  display: flex;
+  justify-content: space-between;
+  border: #FBF3B9 solid 10px;
+  border-bottom: 0px;
+  height: 170px;
+  flex-direction: row;
+}
+
+
+
+
+.container{
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #FDB7EA;
+  display: flex;
+  justify-content: center;
+  
+  margin-bottom: 20px;
+  
+  height: 450px;
+  border: #FBF3B9 solid 10px;
+  border-top: 0px;
+  
+}
+
+.cake{
+  align-self: flex-end;
+}
+
+
+.bal{
+  padding-top:50px ;
+  
+}
+.wish{
+  padding-top: 20px;
+}
+
+.box{
+  display: flex;
+  margin-top: 20px;
+  margin: auto;
+  height: 600px;
+  width: 1200px;
+  border:  #FBF3B9 solid 10px;
+  background-color:#FDB7EA ;
+}
+
+.meme{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 600px;
+  width: 1300px;
+  border:  #FBF3B9 solid 10px;
+  background-color:#FDB7EA ;
+  
+}
+
+.crown{
+  margin-left: auto;
+}
+
+.message{
+  padding-left: 20px;
+}
+
+.glass{
+  display: flex;
+  margin:auto;
+  justify-content: center;
+  height: 600px;
+  width: 800px;
+  border:  #FBF3B9 solid 10px;
+  background-color:#FDB7EA ;
+  margin-bottom: 20px;
+}
+
+.footer{
+  height: 20px;
+  margin-top: 20px;
+  background-color:#FBF3B9  ;
+  justify-self: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-top: 5px;
+}
+
+.wish{
+  font-family: 'pacifico';
+  font-size: 50px;
+  padding-left: 40px;
+}
+
+.wishh{
+    height: 730px;
+    width: 800px;
+    border:  #FBF3B9 solid 10px;
+    background-color:#FDB7EA ;
+    margin: auto;
+    font-family: 'pacifico';
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+
